@@ -142,7 +142,10 @@
     <ClCompile Include=".Seminar4.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Seminar5.c" />
+    <ClCompile Include="Seminar5.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Seminar6.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt" />
