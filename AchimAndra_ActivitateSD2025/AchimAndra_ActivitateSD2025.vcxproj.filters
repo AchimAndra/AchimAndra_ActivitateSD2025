@@ -36,10 +36,22 @@
     <ClCompile Include="Seminar6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Seminar7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar12.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt">
       <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="masiniA.txt">
+      <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
 </Project>
